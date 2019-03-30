@@ -1,0 +1,4 @@
+F:\17ce193\masternew\masternew\bin\masternew.dll
+F:\17ce193\masternew\masternew\bin\masternew.pdb
+F:\17ce193\masternew\masternew\obj\Debug\masternew.dll
+F:\17ce193\masternew\masternew\obj\Debug\masternew.pdb
